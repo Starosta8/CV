@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkgray;
+    width: 1000px;
+    height: auto;
+    font-family: "sans-serif"
+}
+
+a {
+    color: black;
+}
+h2{
+
+}
+#div0{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    background: #ffffff;
+    border: solid 1px black;
+    width: 800px;
+    height:auto;
+}
+#img{
+    float: left;
+    padding-left: 50px;
+
+}
+.div1{
+    width: 800px;
+    text-align: center;
+    float: left;
+}
+.div2 {
+    float: left;
+    padding-left: 60px;
+    margin-top: 5px
+}
+.div02{
+    float: left;
+    width: 273px;
+    padding-left: 42px;
+}
+.div3{
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.pading {
+    padding-top: 15px;
+}
+.Clean{
+    clear: left;
+}
